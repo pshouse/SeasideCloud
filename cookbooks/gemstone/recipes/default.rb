@@ -67,3 +67,9 @@ execute "installGemstone.sh" do
 	user "ubuntu"
 	creates "/opt/gemstone"
 end
+
+directory "/opt/gemstone" do
+	owner "ubuntu"
+	group "ubuntu"
+end
+
