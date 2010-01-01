@@ -31,11 +31,11 @@ remote_file "/tmp/installGemstone.sh" do
 end
 #installation script must be run by a user with sudo access, not root.
 group "ubuntu" do
-	gid 1000
+	gid 1001
 end
 
 user "ubuntu" do
-	uid "1000"
+	uid "1001"
 	gid "ubuntu"
 	home "/home/ubuntu"
 	shell "/bin/bash"
