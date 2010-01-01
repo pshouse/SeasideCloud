@@ -1,0 +1,38 @@
+{
+  "recipes": {
+    "gemstone": ""
+  },
+  "maintainer_email": "admin@reliantitsystems.com",
+  "version": "0.1.0",
+  "suggestions": {
+
+  },
+  "platforms": {
+
+  },
+  "description": "Installs\/Configures gemstone",
+  "conflicting": {
+
+  },
+  "providing": {
+    "gemstone": [
+
+    ]
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \n\n= USAGE:\n\n",
+  "replacing": {
+
+  },
+  "dependencies": {
+
+  },
+  "name": "gemstone",
+  "attributes": {
+
+  },
+  "license": "Apache 2.0",
+  "maintainer": "RCC",
+  "recommendations": {
+
+  }
+}
